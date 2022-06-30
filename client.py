@@ -1,6 +1,6 @@
 # Install dependencies.
-import subprocess
-subprocess.call(['python', 'setup.py'])
+#import subprocess
+#subprocess.call(['python', 'setup.py'])
 
 import sys
 import os
